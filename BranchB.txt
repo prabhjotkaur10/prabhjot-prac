@@ -1,0 +1,4 @@
+BranchB.txt
+
+This is second
+branch file
